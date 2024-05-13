@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\app\\entities\\userx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|solutionrelative:app\\entities\\userx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\app\\data\\dbconfigs\\userxconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|solutionrelative:app\\data\\dbconfigs\\userxconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\app\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|solutionrelative:app\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|c:\\users\\emred\\onedrive\\masa\u00FCst\u00FC\\entyfrmwrk\\1-app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\app\\repository\\userxqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|solutionrelative:app\\repository\\userxqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\app\\repository\\userxcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E4936C-36EB-499D-8F7E-B3D4510F9408}|App\\App.csproj|solutionrelative:app\\repository\\userxcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:424922648:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserxQueries.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Repository\\UserxQueries.cs",
+              "RelativeDocumentMoniker": "App\\Repository\\UserxQueries.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Repository\\UserxQueries.cs",
+              "RelativeToolTip": "App\\Repository\\UserxQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:46:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserxCommands.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Repository\\UserxCommands.cs",
+              "RelativeDocumentMoniker": "App\\Repository\\UserxCommands.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Repository\\UserxCommands.cs",
+              "RelativeToolTip": "App\\Repository\\UserxCommands.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:19:59.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "App\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "App\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:40:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Userx.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Entities\\Userx.cs",
+              "RelativeDocumentMoniker": "App\\Entities\\Userx.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Entities\\Userx.cs",
+              "RelativeToolTip": "App\\Entities\\Userx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:46:23.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserxConfig.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Data\\DbConfigs\\UserxConfig.cs",
+              "RelativeDocumentMoniker": "App\\Data\\DbConfigs\\UserxConfig.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Data\\DbConfigs\\UserxConfig.cs",
+              "RelativeToolTip": "App\\Data\\DbConfigs\\UserxConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:02:43.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\1-App\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:17:28.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

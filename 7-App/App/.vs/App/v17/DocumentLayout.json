@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Migrations\\20240506072211_alo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:App\\Migrations\\20240506072211_alo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|c:\\users\\emred\\onedrive\\masa\u00FCst\u00FC\\entyfrmwrk\\7-app\\app\\app\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:app\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\app\\entities\\userx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:app\\entities\\userx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\app\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:app\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\app\\controllers\\userxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:app\\controllers\\userxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|c:\\users\\emred\\onedrive\\masa\u00FCst\u00FC\\entyfrmwrk\\7-app\\app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29B250B1-4C0F-4038-9C84-13E35C8D88CC}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 374,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:424922648:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "App\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\WeatherForecast.cs",
+              "RelativeToolTip": "App\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:37:38.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240506072211_alo.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Migrations\\20240506072211_alo.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20240506072211_alo.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Migrations\\20240506072211_alo.cs",
+              "RelativeToolTip": "App\\Migrations\\20240506072211_alo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:22:12.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserxController.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Controllers\\UserxController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\UserxController.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Controllers\\UserxController.cs",
+              "RelativeToolTip": "App\\Controllers\\UserxController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:54:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:41:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\appsettings.json",
+              "RelativeDocumentMoniker": "App\\appsettings.json",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\appsettings.json",
+              "RelativeToolTip": "App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T06:38:27.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.csproj",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App.csproj",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\App.csproj",
+              "RelativeToolTip": "App\\App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T06:29:40.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "App\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "App\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:30:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Userx.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Entities\\Userx.cs",
+              "RelativeDocumentMoniker": "App\\Entities\\Userx.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\7-App\\App\\App\\Entities\\Userx.cs",
+              "RelativeToolTip": "App\\Entities\\Userx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:29:05.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

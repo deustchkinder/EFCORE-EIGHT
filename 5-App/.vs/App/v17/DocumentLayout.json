@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|c:\\users\\emred\\onedrive\\masa\u00FCst\u00FC\\entyfrmwrk\\5-app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\app\\entities\\userx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|solutionrelative:app\\entities\\userx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\app\\data\\dbconfigs\\userxconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A9A375-51A9-4E3F-BB8F-5F3E3C1FBE9B}|App\\App.csproj|solutionrelative:app\\data\\dbconfigs\\userxconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:424922648:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\AppSettings.json",
+              "RelativeDocumentMoniker": "App\\AppSettings.json",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\AppSettings.json",
+              "RelativeToolTip": "App\\AppSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T06:38:13.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Userx.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\Entities\\Userx.cs",
+              "RelativeDocumentMoniker": "App\\Entities\\Userx.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\Entities\\Userx.cs",
+              "RelativeToolTip": "App\\Entities\\Userx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:01:30.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserxConfig.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\Data\\DbConfigs\\UserxConfig.cs",
+              "RelativeDocumentMoniker": "App\\Data\\DbConfigs\\UserxConfig.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\Data\\DbConfigs\\UserxConfig.cs",
+              "RelativeToolTip": "App\\Data\\DbConfigs\\UserxConfig.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:31:42.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\ENTYFRMWRK\\5-App\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAGoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:20:54.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
